@@ -8,6 +8,7 @@ Send an email to `joe@adaltas.com` with the following information.
 subject: ECE big data processing Gr-x git repo link
 cc: <members of lab or project group>
 
+- Git repo link
 - Group(eg, gr-01, gr-02, gr-03, gr-04)
 - project/lab member 1, git username
 - project/lab member 2, git username
