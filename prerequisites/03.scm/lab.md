@@ -123,6 +123,14 @@ You can find a detailed list of the different Git CLI commands:
 - https://gist.github.com/aquelito/8596717
 - https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 
+## 7. Practice code review
+
+1. Each member of the group will create a branch in the repo to fix or alter something in a file in the repo. **Note:** It will be easiest and normal best practice to work on different files or parts of the code in order to avoid conflicts like those explored in the previous exercises.  
+2. Open a pull request/merge request for the work just completed.
+3. Request a review from a group member. ( Each group member should have the opportunity to do a code review.)
+4. The responsibility of the reviewer is to look for any mistakes or suggestions for the file and the responsibility of the submitter is to review and make suggested changes.
+5. Once the code has been approved, merge the branch into the main code.  
+
 ## Bonus tasks
 
 1. [Learn `.gitignore`](https://git-scm.com/docs/gitignore)
