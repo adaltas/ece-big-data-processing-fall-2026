@@ -15,7 +15,7 @@ This lab is a quick demonstration of a simple Kafka producer/topic/consumer comb
 ## Environment Setup
 
 1. Start a new python environment in a new project directory.
-2. Install confluent-python in the environment.
+2. Install [confluent-kafka python lib](https://pypi.org/project/confluent-kafka/) in the environment.
 3. Copy the admin.py, producer.py, and consumer.py files to the new project directory. 
 
 ## Start the Docker Containers
